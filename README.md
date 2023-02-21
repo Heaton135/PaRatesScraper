@@ -1,5 +1,5 @@
 # PaRatesScraper
-Scrape for electricity and gas rates in Pennsylvania region
+Scrape for electricity rates in the PPL service region
 
 
 ## Instructions:
