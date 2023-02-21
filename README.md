@@ -1,5 +1,5 @@
 # PaRatesScraper
-Scrape for electricity rates in the PPL service region
+### Scrape for electricity rates in the PPL service region
 
 
 ## Instructions:
