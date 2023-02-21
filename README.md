@@ -3,8 +3,8 @@ Scrape for electricity and gas rates in Pennsylvania region
 
 
 ## Instructions:
-To scrape residential service rates: ```python3 RatesScraper.py```
-To scrape General Service 3 rates (for small businesses) ```python3 GS3-Scraper.py```
+Residential service rates: ```python3 RatesScraper.py```  
+General Service 3 rates (for small businesses) ```python3 GS3-Scraper.py```
 
 ## Approach 
 
