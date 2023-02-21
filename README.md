@@ -1,4 +1,4 @@
-# PaRatesScraper
+# PPL Rates Scraper
 ### Scrape for electricity rates in the PPL service region
 
 
